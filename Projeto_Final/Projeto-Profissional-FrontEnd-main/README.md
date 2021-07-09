@@ -1,6 +1,5 @@
-# projeto 
-    Projeto final -curso Front End- {Reprograma} 
-
+## Projeto final -curso Front End- {Reprograma} 
+    
     O projeto AdoCAO foi criado para estimular a adoção de cachorros abandonados, sobretudo, levantar fundos para doguinhos de rua que estão em situação de perigo! 🐾
 
 ## Tecnologias
